@@ -106,3 +106,8 @@ IDF(w) = log_e(Total number of documents / Number of documents with word w in it
 
 TF-IDF = TF(w) * IDF(w)
 ```
+
+## Sentiment Analysis
+
+1. **VADER**: Valence Aware Dictionary and sEntiment Reasoner
+2. **TextBlob**: Python library for processing textual data
